@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Libraries.WebApi.ResponseWrapper", "src\Libraries.WebApi.ResponseWrapper\Libraries.WebApi.ResponseWrapper.csproj", "{56515EC6-717D-4ED5-889D-D13FC1C9E0F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Libraries.TestPlayground", "Libraries.TestPlayground\Libraries.TestPlayground.csproj", "{A41EA375-428A-414A-943C-26883F66DA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56515EC6-717D-4ED5-889D-D13FC1C9E0F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56515EC6-717D-4ED5-889D-D13FC1C9E0F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56515EC6-717D-4ED5-889D-D13FC1C9E0F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56515EC6-717D-4ED5-889D-D13FC1C9E0F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A41EA375-428A-414A-943C-26883F66DA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A41EA375-428A-414A-943C-26883F66DA3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A41EA375-428A-414A-943C-26883F66DA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A41EA375-428A-414A-943C-26883F66DA3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75BEDC0A-626C-4398-8B24-9A5D6C5662A0}
+	EndGlobalSection
+EndGlobal
